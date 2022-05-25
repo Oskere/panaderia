@@ -1,0 +1,30 @@
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.csproj.AssemblyReference.cache
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.GeneratedMSBuildEditorConfig.editorconfig
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.AssemblyInfoInputs.cache
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.AssemblyInfo.cs
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.csproj.CoreCompileInputs.cache
+D:\David\Desktop\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.exe
+D:\David\Desktop\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.deps.json
+D:\David\Desktop\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.runtimeconfig.json
+D:\David\Desktop\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.dll
+D:\David\Desktop\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.pdb
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.dll
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\refint\Panadería.dll
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.pdb
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.genruntimeconfig.cache
+D:\David\Desktop\Entornos de desarrollo\Panadería\obj\Debug\net6.0\ref\Panadería.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.exe
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.deps.json
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.runtimeconfig.json
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\bin\Debug\net6.0\Panadería.pdb
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.csproj.AssemblyReference.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.AssemblyInfoInputs.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.AssemblyInfo.cs
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\refint\Panadería.dll
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.pdb
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\Panadería.genruntimeconfig.cache
+C:\Users\1daw3\Desktop\David Barberio\Entornos de desarrollo\Panadería\obj\Debug\net6.0\ref\Panadería.dll
